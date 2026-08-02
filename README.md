@@ -1,22 +1,57 @@
-# Hi, I'm Aeman Naeem 👋
+# Hi there! 👋
 
-🎓 BS Computer Science Student at SZABIST
+I'm **Aeman Naeem**, a BSCS student from Pakistan.
 
-💻 Currently Learning
+I'm passionate about learning **Data Engineering, Cloud Technologies, and Software Development** while building practical projects and continuously improving my technical skills.
+
+## 👩‍💻 About Me
+
+- 🎓 BSCS Student at SZABIST
+- 💡 Interested in Data Engineering & Cloud
+- 🌱 Currently improving my development skills
+- 🚀 Learning through projects and hands-on practice
+
+## 📚 Currently Learning
+
 - C++
 - Object-Oriented Programming (OOP)
 - SQL
-- Data Engineering
+- Microsoft Fabric
+- Power BI
+- Git & GitHub
+
+## 🛠️ Tools & Technologies
+
+- C++
+- SQL
+- Git
+- GitHub
+- VS Code
 - Microsoft Fabric
 - Power BI
 
-🚀 Current Goals
-- Build real-world projects
-- Improve Data Engineering skills
-- Learn Cloud Technologies
+## 📂 Projects
 
-🛠️ Languages & Tools
-C++ | SQL | Git | GitHub | VS Code | Microsoft Fabric | Power BI
+Here you'll find my:
 
-📫 Connect with me
-LinkedIn: www.linkedin.com/in/aeman-naeem07277411
+- University Projects
+- C++ Projects
+- Data Engineering Learning Projects
+- More projects coming soon...
+
+## 📜 Certifications
+
+- Microsoft Fabric Data Engineer Associate(DP-700)
+- Microsoft Azure Data Fundamentals (DP-900)
+
+## 📬 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/aeman-naeem07277411
+
+## ✨ A Little About Me
+
+- 📖 I enjoy learning new technologies.
+- 💻 I believe in learning by building projects.
+- 🌟 Every day is a new opportunity to improve.
+
+Thanks for visiting my profile! ⭐
