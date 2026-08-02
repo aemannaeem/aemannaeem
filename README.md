@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Aeman Naeem 👋
 
-<!--
-**aemannaeem/aemannaeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Computer Science Student at SZABIST
 
-Here are some ideas to get you started:
+💻 Currently Learning
+- C++
+- Object-Oriented Programming (OOP)
+- SQL
+- Data Engineering
+- Microsoft Fabric
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Current Goals
+- Build real-world projects
+- Improve Data Engineering skills
+- Learn Cloud Technologies
+
+🛠️ Languages & Tools
+C++ | SQL | Git | GitHub | VS Code | Microsoft Fabric | Power BI
+
+📫 Connect with me
+LinkedIn: www.linkedin.com/in/aeman-naeem07277411
